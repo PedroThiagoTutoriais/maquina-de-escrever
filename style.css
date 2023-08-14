@@ -3,10 +3,11 @@
     margin: 0;
     background-color: #000000;
 }
-
 .container {
-    padding-top: 200px;
-    margin-left: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
 }
 
 .text-animate .text{
